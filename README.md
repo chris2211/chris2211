@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Chris, a full-stack freelance developer 👨‍💻</div>  
   
 
@@ -44,9 +39,6 @@
 </td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -61,10 +53,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=chris2211&&style=flat-square" align="center" />
 </div>  
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
